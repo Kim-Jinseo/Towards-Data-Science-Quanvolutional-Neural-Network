@@ -1,0 +1,117 @@
+--- Loading Fashion-MNIST CSVs ---
+Backend: default.qubit CPU initialized.
+
+[Classical CNN] Initialized on cuda | Trainable Params: 9918
+Epoch 1/50 | Time: 45.9s | LR: 0.00100 | Train Acc: 0.7507 | Val Acc: 0.8515
+Epoch 2/50 | Time: 38.9s | LR: 0.00100 | Train Acc: 0.8076 | Val Acc: 0.8588
+Epoch 3/50 | Time: 39.1s | LR: 0.00099 | Train Acc: 0.8245 | Val Acc: 0.8707
+Epoch 4/50 | Time: 38.3s | LR: 0.00098 | Train Acc: 0.8338 | Val Acc: 0.8777
+Epoch 5/50 | Time: 39.6s | LR: 0.00098 | Train Acc: 0.8455 | Val Acc: 0.8818
+Epoch 6/50 | Time: 38.1s | LR: 0.00096 | Train Acc: 0.8515 | Val Acc: 0.8833
+Epoch 7/50 | Time: 39.5s | LR: 0.00095 | Train Acc: 0.8547 | Val Acc: 0.8822
+Epoch 8/50 | Time: 38.4s | LR: 0.00094 | Train Acc: 0.8605 | Val Acc: 0.8905
+Epoch 9/50 | Time: 38.8s | LR: 0.00092 | Train Acc: 0.8616 | Val Acc: 0.8893
+Epoch 10/50 | Time: 38.2s | LR: 0.00090 | Train Acc: 0.8658 | Val Acc: 0.8893
+Epoch 11/50 | Time: 37.7s | LR: 0.00089 | Train Acc: 0.8689 | Val Acc: 0.8930
+Epoch 12/50 | Time: 37.3s | LR: 0.00086 | Train Acc: 0.8715 | Val Acc: 0.8883
+Epoch 13/50 | Time: 39.3s | LR: 0.00084 | Train Acc: 0.8724 | Val Acc: 0.8918
+Epoch 14/50 | Time: 38.5s | LR: 0.00082 | Train Acc: 0.8737 | Val Acc: 0.8892
+Epoch 15/50 | Time: 37.9s | LR: 0.00079 | Train Acc: 0.8738 | Val Acc: 0.8952
+Epoch 16/50 | Time: 38.2s | LR: 0.00077 | Train Acc: 0.8755 | Val Acc: 0.8948
+Epoch 17/50 | Time: 39.5s | LR: 0.00074 | Train Acc: 0.8749 | Val Acc: 0.8932
+Epoch 18/50 | Time: 38.7s | LR: 0.00071 | Train Acc: 0.8779 | Val Acc: 0.8948
+Epoch 19/50 | Time: 38.7s | LR: 0.00068 | Train Acc: 0.8789 | Val Acc: 0.8958
+Epoch 20/50 | Time: 40.0s | LR: 0.00065 | Train Acc: 0.8785 | Val Acc: 0.8962
+Epoch 21/50 | Time: 39.5s | LR: 0.00062 | Train Acc: 0.8810 | Val Acc: 0.8968
+Epoch 22/50 | Time: 40.1s | LR: 0.00059 | Train Acc: 0.8795 | Val Acc: 0.8978
+Epoch 23/50 | Time: 39.9s | LR: 0.00056 | Train Acc: 0.8805 | Val Acc: 0.8907
+Epoch 24/50 | Time: 40.1s | LR: 0.00053 | Train Acc: 0.8816 | Val Acc: 0.8952
+Epoch 25/50 | Time: 40.8s | LR: 0.00050 | Train Acc: 0.8828 | Val Acc: 0.8990
+Epoch 26/50 | Time: 39.4s | LR: 0.00047 | Train Acc: 0.8842 | Val Acc: 0.8985
+Epoch 27/50 | Time: 38.7s | LR: 0.00044 | Train Acc: 0.8835 | Val Acc: 0.8972
+Epoch 28/50 | Time: 39.5s | LR: 0.00041 | Train Acc: 0.8834 | Val Acc: 0.8997
+Epoch 29/50 | Time: 38.7s | LR: 0.00038 | Train Acc: 0.8849 | Val Acc: 0.8988
+Epoch 30/50 | Time: 39.8s | LR: 0.00035 | Train Acc: 0.8867 | Val Acc: 0.8970
+Epoch 31/50 | Time: 39.7s | LR: 0.00032 | Train Acc: 0.8853 | Val Acc: 0.8995
+Epoch 32/50 | Time: 39.1s | LR: 0.00029 | Train Acc: 0.8867 | Val Acc: 0.8993
+Epoch 33/50 | Time: 39.6s | LR: 0.00026 | Train Acc: 0.8882 | Val Acc: 0.8980
+Epoch 34/50 | Time: 39.2s | LR: 0.00023 | Train Acc: 0.8879 | Val Acc: 0.8985
+Epoch 35/50 | Time: 40.0s | LR: 0.00021 | Train Acc: 0.8891 | Val Acc: 0.9005
+Epoch 36/50 | Time: 39.9s | LR: 0.00018 | Train Acc: 0.8884 | Val Acc: 0.9000
+Epoch 37/50 | Time: 39.6s | LR: 0.00016 | Train Acc: 0.8882 | Val Acc: 0.9015
+Epoch 38/50 | Time: 40.3s | LR: 0.00014 | Train Acc: 0.8882 | Val Acc: 0.8992
+Epoch 39/50 | Time: 39.7s | LR: 0.00011 | Train Acc: 0.8901 | Val Acc: 0.9022
+Epoch 40/50 | Time: 39.9s | LR: 0.00010 | Train Acc: 0.8902 | Val Acc: 0.9003
+Epoch 41/50 | Time: 40.3s | LR: 0.00008 | Train Acc: 0.8889 | Val Acc: 0.9012
+Epoch 42/50 | Time: 39.9s | LR: 0.00006 | Train Acc: 0.8898 | Val Acc: 0.9005
+Epoch 43/50 | Time: 40.2s | LR: 0.00005 | Train Acc: 0.8904 | Val Acc: 0.9000
+Epoch 44/50 | Time: 39.8s | LR: 0.00004 | Train Acc: 0.8900 | Val Acc: 0.9008
+Epoch 45/50 | Time: 40.1s | LR: 0.00002 | Train Acc: 0.8908 | Val Acc: 0.9012
+Epoch 46/50 | Time: 39.9s | LR: 0.00002 | Train Acc: 0.8903 | Val Acc: 0.8997
+Epoch 47/50 | Time: 39.9s | LR: 0.00001 | Train Acc: 0.8908 | Val Acc: 0.9003
+Epoch 48/50 | Time: 40.0s | LR: 0.00000 | Train Acc: 0.8905 | Val Acc: 0.8998
+Epoch 49/50 | Time: 39.8s | LR: 0.00000 | Train Acc: 0.8920 | Val Acc: 0.9012
+Epoch 50/50 | Time: 39.7s | LR: 0.00000 | Train Acc: 0.8910 | Val Acc: 0.9000
+
+Reloading best checkpoint (Val Acc: 0.9022) for Final Evaluation on Unseen Test Data (10000 images)...
+[Classical CNN] FINAL TEST ACCURACY: 0.9009
+
+[Hybrid QNN] Initialized on cuda | Trainable Params: 9938
+Epoch 1/50 | Time: 614.5s | LR: 0.00100 | Train Acc: 0.7404 | Val Acc: 0.8398
+Epoch 2/50 | Time: 618.4s | LR: 0.00100 | Train Acc: 0.8084 | Val Acc: 0.8522
+Epoch 3/50 | Time: 630.0s | LR: 0.00099 | Train Acc: 0.8272 | Val Acc: 0.8570
+Epoch 4/50 | Time: 613.4s | LR: 0.00098 | Train Acc: 0.8349 | Val Acc: 0.8700
+Epoch 5/50 | Time: 614.1s | LR: 0.00098 | Train Acc: 0.8433 | Val Acc: 0.8718
+Epoch 6/50 | Time: 614.9s | LR: 0.00096 | Train Acc: 0.8469 | Val Acc: 0.8773
+Epoch 7/50 | Time: 616.7s | LR: 0.00095 | Train Acc: 0.8525 | Val Acc: 0.8805
+Epoch 8/50 | Time: 675.7s | LR: 0.00094 | Train Acc: 0.8556 | Val Acc: 0.8793
+Epoch 9/50 | Time: 653.6s | LR: 0.00092 | Train Acc: 0.8584 | Val Acc: 0.8797
+Epoch 10/50 | Time: 652.2s | LR: 0.00090 | Train Acc: 0.8628 | Val Acc: 0.8838
+Epoch 11/50 | Time: 663.4s | LR: 0.00089 | Train Acc: 0.8633 | Val Acc: 0.8838
+Epoch 12/50 | Time: 641.6s | LR: 0.00086 | Train Acc: 0.8664 | Val Acc: 0.8818
+Epoch 13/50 | Time: 640.1s | LR: 0.00084 | Train Acc: 0.8679 | Val Acc: 0.8822
+Epoch 14/50 | Time: 648.7s | LR: 0.00082 | Train Acc: 0.8705 | Val Acc: 0.8865
+Epoch 15/50 | Time: 628.9s | LR: 0.00079 | Train Acc: 0.8694 | Val Acc: 0.8848
+Epoch 16/50 | Time: 601.3s | LR: 0.00077 | Train Acc: 0.8713 | Val Acc: 0.8872
+Epoch 17/50 | Time: 602.4s | LR: 0.00074 | Train Acc: 0.8723 | Val Acc: 0.8893
+Epoch 18/50 | Time: 597.2s | LR: 0.00071 | Train Acc: 0.8740 | Val Acc: 0.8857
+Epoch 19/50 | Time: 653.1s | LR: 0.00068 | Train Acc: 0.8750 | Val Acc: 0.8853
+Epoch 20/50 | Time: 601.8s | LR: 0.00065 | Train Acc: 0.8766 | Val Acc: 0.8885
+Epoch 21/50 | Time: 599.6s | LR: 0.00062 | Train Acc: 0.8767 | Val Acc: 0.8888
+Epoch 22/50 | Time: 599.5s | LR: 0.00059 | Train Acc: 0.8771 | Val Acc: 0.8877
+Epoch 23/50 | Time: 605.1s | LR: 0.00056 | Train Acc: 0.8771 | Val Acc: 0.8887
+Epoch 24/50 | Time: 599.4s | LR: 0.00053 | Train Acc: 0.8775 | Val Acc: 0.8897
+Epoch 25/50 | Time: 599.2s | LR: 0.00050 | Train Acc: 0.8796 | Val Acc: 0.8855
+Epoch 26/50 | Time: 600.4s | LR: 0.00047 | Train Acc: 0.8784 | Val Acc: 0.8833
+Epoch 27/50 | Time: 599.7s | LR: 0.00044 | Train Acc: 0.8798 | Val Acc: 0.8878
+Epoch 28/50 | Time: 599.0s | LR: 0.00041 | Train Acc: 0.8801 | Val Acc: 0.8878
+Epoch 29/50 | Time: 596.3s | LR: 0.00038 | Train Acc: 0.8800 | Val Acc: 0.8895
+Epoch 30/50 | Time: 600.8s | LR: 0.00035 | Train Acc: 0.8796 | Val Acc: 0.8858
+Epoch 31/50 | Time: 601.1s | LR: 0.00032 | Train Acc: 0.8822 | Val Acc: 0.8865
+Epoch 32/50 | Time: 601.6s | LR: 0.00029 | Train Acc: 0.8846 | Val Acc: 0.8870
+Epoch 33/50 | Time: 598.8s | LR: 0.00026 | Train Acc: 0.8823 | Val Acc: 0.8868
+Epoch 34/50 | Time: 599.5s | LR: 0.00023 | Train Acc: 0.8835 | Val Acc: 0.8880
+Epoch 35/50 | Time: 598.9s | LR: 0.00021 | Train Acc: 0.8843 | Val Acc: 0.8898
+Epoch 36/50 | Time: 598.6s | LR: 0.00018 | Train Acc: 0.8841 | Val Acc: 0.8885
+Epoch 37/50 | Time: 598.8s | LR: 0.00016 | Train Acc: 0.8843 | Val Acc: 0.8860
+Epoch 38/50 | Time: 601.0s | LR: 0.00014 | Train Acc: 0.8853 | Val Acc: 0.8885
+Epoch 39/50 | Time: 599.6s | LR: 0.00011 | Train Acc: 0.8857 | Val Acc: 0.8913
+Epoch 40/50 | Time: 598.0s | LR: 0.00010 | Train Acc: 0.8856 | Val Acc: 0.8872
+Epoch 41/50 | Time: 597.6s | LR: 0.00008 | Train Acc: 0.8845 | Val Acc: 0.8873
+Epoch 42/50 | Time: 599.1s | LR: 0.00006 | Train Acc: 0.8844 | Val Acc: 0.8883
+Epoch 43/50 | Time: 598.8s | LR: 0.00005 | Train Acc: 0.8859 | Val Acc: 0.8887
+Epoch 44/50 | Time: 619.4s | LR: 0.00004 | Train Acc: 0.8856 | Val Acc: 0.8880
+Epoch 45/50 | Time: 617.5s | LR: 0.00002 | Train Acc: 0.8869 | Val Acc: 0.8873
+Epoch 46/50 | Time: 598.3s | LR: 0.00002 | Train Acc: 0.8852 | Val Acc: 0.8882
+Epoch 47/50 | Time: 599.9s | LR: 0.00001 | Train Acc: 0.8876 | Val Acc: 0.8877
+Epoch 48/50 | Time: 598.7s | LR: 0.00000 | Train Acc: 0.8871 | Val Acc: 0.8883
+Epoch 49/50 | Time: 594.6s | LR: 0.00000 | Train Acc: 0.8878 | Val Acc: 0.8878
+Epoch 50/50 | Time: 591.8s | LR: 0.00000 | Train Acc: 0.8862 | Val Acc: 0.8877
+
+Reloading best checkpoint (Val Acc: 0.8913) for Final Evaluation on Unseen Test Data (10000 images)...
+[Hybrid QNN] FINAL TEST ACCURACY: 0.8992
+
+=== FINAL PAPER COMPARISON ===
+CNN | Params: 9918 | Avg Epoch Time: 39.47s | Test Acc: 0.9009
+QNN | Params: 9938 | Avg Epoch Time: 611.86s | Test Acc: 0.8992
+
